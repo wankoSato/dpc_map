@@ -15,7 +15,7 @@
 	- これもshape fileなのでいったんGeoJsonに変換してから読み込む
 	- ただし、島しょ部の部分が巨大になるため、削除している
 
-## データの出展
+## データの出典
 - [「国土数値情報（1kmメッシュ別将来推計人口データ（H30国政局推計））」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-mesh1000h30.html)を加工して作成
 - [令和元年度DPC導入の影響評価に係る調査「退院患者調査」の結果報告について（厚生労働省）](https://www.mhlw.go.jp/stf/shingi2/0000196043_00004.html)を加工して作成
 - [「国土数値情報（医療圏データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A38.html)を加工して作成
